@@ -1,4 +1,6 @@
 just testing some commands
+1. git config --global user.email "jadhavankitha59@gmail.com"
+2. git config --global user.name "jadhavAnkitha11"
 1. git status
 2. git add .
 3. git status
